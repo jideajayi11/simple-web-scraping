@@ -1,2 +1,2 @@
 # simple-web-scraping
-Find restaurants on Glovo
+Find restaurants in lagos on Glovo
