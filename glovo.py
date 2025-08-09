@@ -22,4 +22,4 @@ print(soup.prettify())
 links = soup.find_all("h3", attrs={"data-test-id": True, "class":"store-card__footer__title"})
 
 for link in links:
-    print("Link:", link.get_text(strip=True))
+    print("restaurant:", link.get_text(strip=True))
